@@ -8,3 +8,10 @@
 - 📫 How to reach me: haria.othon99@gmail.com / IG: haria.ot  
 
 
+<a href="https://github.com/hariaot/hariaot">
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hariaot" />
+</a>
+
+<a href="https://github.com/hariaot/hariaot">
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=hariaot&show_icons=true&theme:dark" />
+</a>
