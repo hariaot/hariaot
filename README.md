@@ -1,5 +1,5 @@
 ___
-<img src = "https://sep-bucket-prod.s3.amazonaws.com/wp-content/uploads/2020/06/22121713/escudo-palmeiras-atual.png"  width = "150px" align = "right">
+<img src = "https://sep-bucket-prod.s3.amazonaws.com/wp-content/uploads/2020/06/22121713/escudo-palmeiras-atual.png"  width = "140px" align = "right">
 </img>
 
 ### Hi there 👋, I'm Haria Othon :)
