@@ -1,5 +1,5 @@
 ___
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FSociedade_Esportiva_Palmeiras&psig=AOvVaw03MMShlr3VBZ8eiHAcUYCU&ust=1627733244972000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMj-1IHhivICFQAAAAAdAAAAABAD"  width = "150px" align = "right">
+<img src = "https://sep-bucket-prod.s3.amazonaws.com/wp-content/uploads/2020/06/22121713/escudo-palmeiras-atual.png"  width = "150px" align = "right">
 </img>
 
 ### Hi there 👋, I'm Haria Othon :)
