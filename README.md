@@ -6,9 +6,9 @@ ___
 
 
 
-- 🔭 I’m currently working on: Back-end
-- 👨‍🎓 I'm currently studying on: FCT- UNESP
-- 🌱 I’m currently learning: Python, ReactJS, MySQL, SQLite and Php.
+- 🔭 I’m currently working as: Back-end Develooper.
+- 👨‍🎓 I'm currently studying on: FCT- UNESP.
+- 🌱 I’m currently learning: Python, ReactJS, MySQL and SQLite.
 - 📫 How to reach me: haria.othon99@gmail.com / IG: haria.ot  
 ___
 <a href="https://github.com/hariaot/hariaot">
