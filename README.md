@@ -8,7 +8,7 @@ ___
 
 - 🔭 I’m currently working as: Back-end Develooper.
 - 👨‍🎓 I'm currently studying on: FCT- UNESP.
-- 🌱 I’m currently learning: Python, ReactJS, MySQL and SQLite.
+- 🌱 I’m currently learning: NodeJs, Typescript and AWS.
 - 📫 How to reach me: haria.othon99@gmail.com / IG: haria.ot  
 ___
 <a href="https://github.com/hariaot/hariaot">
